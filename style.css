@@ -162,5 +162,9 @@ a:hover{
     }
     .middle-container{
         text-align: center;
+        
+    }
+    .skill-row{
+        text-align: left;
     }
   }
