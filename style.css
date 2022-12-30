@@ -155,3 +155,12 @@ a:hover{
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
+
+  @media(max-width: 1028px){
+    .top-container{
+        text-align: center;
+    }
+    .middle-container{
+        text-align: center;
+    }
+  }
