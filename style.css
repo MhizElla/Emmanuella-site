@@ -165,11 +165,18 @@ a:hover{
         
     }
     p{
-        font-size: 23px;
+        font-size: 20px;
         line-height: 2;
+    }
+
+    h1{
+        font-size: 1.8rem;
     }
     h2{
         font-size: 1.2em;
+    }
+    .intro{
+        font-size: 20px;  
     }
     
   }
