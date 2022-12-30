@@ -165,6 +165,8 @@ a:hover{
         
     }
     .skill-row{
+        width: 55%;
+        margin: 250px auto 250px auto;
         text-align: left;
     }
   }
