@@ -164,5 +164,12 @@ a:hover{
         text-align: center;
         
     }
+    p{
+        font-size: 23px;
+        line-height: 2;
+    }
+    h2{
+        font-size: 1.2em;
+    }
     
   }
