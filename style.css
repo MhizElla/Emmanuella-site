@@ -124,7 +124,7 @@ a:hover{
 }
 
 .chillies-img{
-    width: 22%;
+    width: 25%;
     float: right;
     margin-left: 40px;
 }
@@ -164,23 +164,26 @@ a:hover{
         text-align: center;
         
     }
+
+    #main-head{
+        font-size: 2.8125rem; 
+    }
     p{
-        font-size: 10px;
-        line-height: 2;
+        font-size: 15px;  
     }
 
     h1{
-        font-size: 1.8rem;
+        font-size: 1.8rem;   
     }
     h2{
-        font-size: 1.2em;
+    font-size: 1.2em;
     }
+
     .intro{
         font-size: 20px;
-        text-align: left;  
     }
-    .chillies-img{
-        width: 19%;
+    .para{
+        font-size: 1.5em;
     }
     
   }
