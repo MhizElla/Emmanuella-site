@@ -176,7 +176,11 @@ a:hover{
         font-size: 1.2em;
     }
     .intro{
-        font-size: 20px;  
+        font-size: 20px;
+        text-align: left;  
+    }
+    .chillies-img{
+        width: 19%;
     }
     
   }
